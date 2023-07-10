@@ -2,7 +2,8 @@ Welcome to Pixel Art & Animation!
 
 Goal: To create your own character/scene in Piskel.
 
-<h>The Site</h>
+**The Templates**
 
+We have a few templates above. Right click it, save it to the desktop, and then Import the existing image using “Import from Picture” and selecting this image from the desktop.  
 
-The site we'll be using is Piskell, which can be found at https://www.piskelapp.com/
+Piskel: https://www.piskelapp.com/
