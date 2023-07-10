@@ -16,6 +16,10 @@ Welcome to Pixel Art & Animation!
 
 1) Click on the gif link. Then, right click the image and select "Save As". Give it a name.
 2) On Piskel, we'll want to hit the IMPORT folders on the right hand side to import the image. Use IMPORT FROM PICTURE
-3) Select the image of our choice (such as Basic Templates) and it will open the image in the app. 
+3) Select the image of our choice (such as Basic Templates) and it will open the image in the app.
+
+
+Shortcut to this page: https://tinyurl.com/MSUPixelArt
+
 
 
