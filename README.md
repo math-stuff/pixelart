@@ -18,7 +18,8 @@ Welcome to Pixel Art & Animation!
 2) On Piskel, we'll want to hit the IMPORT folders on the right hand side to import the image. Use IMPORT FROM PICTURE
 3) Select the image of our choice (such as Basic Templates) and it will open the image in the app.
 
-**Template People**
+**Template People 1-6**: Download the "Template People.piskel" file above to get access to these six! Simply delete the frames you do not want. 
+
 ![Template Person 1 png](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/c1b657d7-b01d-4b7a-8f3d-2b179155ca2b)
 ![Template Person 2 png](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/04ab9f79-9756-4503-af75-71be5e197e64)
 ![Template Person 3 png](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/b3ff0cbd-4193-47a7-b84f-47b6397574b6)
