@@ -18,9 +18,13 @@ Welcome to Pixel Art & Animation!
 2) On Piskel, we'll want to hit the IMPORT folders on the right hand side to import the image. Use IMPORT FROM PICTURE
 3) Select the image of our choice (such as Basic Templates) and it will open the image in the app.
 
-Preview: Sample Cat (32x32) ![Cat](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/546ac236-da27-4b1a-bedf-6484640f2126)
+**Preview: Sample Cat (32x32) **
 
-Preview: Sample Cat Animation (64x64) ![Cat Animation](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/fca7ec3d-4f80-4988-8349-e76ce29cc3d8)
+![Cat](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/546ac236-da27-4b1a-bedf-6484640f2126)
+
+**Preview: Sample Cat Animation (64x64) **
+
+![Cat Animation](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/fca7ec3d-4f80-4988-8349-e76ce29cc3d8)
 
 
 
