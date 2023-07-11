@@ -34,6 +34,11 @@ Welcome to Pixel Art & Animation!
 
 ![Cat](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/546ac236-da27-4b1a-bedf-6484640f2126)
 
+**Preview: Template Cat (64x64)**
+
+![thumbnail_Piskel](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/066d8bfb-edf0-4502-9e8e-32246fb50601)
+
+
 **Preview: Sample Cat Animation (64x64)**
 
 ![Cat Animation](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/fca7ec3d-4f80-4988-8349-e76ce29cc3d8)
