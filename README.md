@@ -26,7 +26,9 @@ Welcome to Pixel Art & Animation!
 
 ![Cat Animation](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/fca7ec3d-4f80-4988-8349-e76ce29cc3d8)
 
+**Preview: Sample Steve the Blob (32x32)**
 
+![Steve the Blob](https://github.com/math-stuff/math-stuff.github.io/assets/139161552/f0b1f688-3b64-44dc-9e94-218b277956b9)
 
 
 
