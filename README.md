@@ -54,7 +54,7 @@ Welcome to Pixel Art & Animation!
 
 
 
-Shortcut to this page: https://tinyurl.com/MSUPixelArt
+Shortcut to this page: https://tinyurl.com/msupixel
 
 
 
