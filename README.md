@@ -1,6 +1,6 @@
 Welcome to Pixel Art & Animation!
 
-**Goal**: To create your own character/scene in Piskel.
+**Goal**: Select the Day 3 Template. Use the features in the Template to create a scene or image. Either create three small animations in the image, or create one major animation in the image. 
 
 **Color Palette**: Pixel art often works with an inherently small number of colors. This file provides these colors to us. 
 
@@ -11,6 +11,10 @@ Welcome to Pixel Art & Animation!
 5) Select our Palette picture. Piskel will pull all colors from this picture and add them to our palette.
 6) Hit Save
 7) Our palette will now be availabe in the bottom right!
+
+**Template File**: Use the Day 3 Template File. Older files are still available, but will not necessarily have the same style art. 
+
+========================================
 
 **Basic Templates**: A gif with six basic people templates is above as Basic Templates.gif
 
